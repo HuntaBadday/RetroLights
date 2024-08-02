@@ -1,0 +1,24 @@
+RetroLights.DisplayEffect.DisplayIntensity:
+    Page: Graphics
+    Heading: Retro_Lights
+    Min: 1
+    Max: 100
+    SliderInterval: 0.1
+    DecimalPlacesToDisplay: 1
+    PerformanceImpact: Low
+RetroLights.DisplayEffect.RampOnDivider:
+    Page: Graphics
+    Heading: Retro_Lights
+    Min: 1
+    Max: 100
+    SliderInterval: 0.1
+    DecimalPlacesToDisplay: 1
+    PerformanceImpact: Low
+RetroLights.DisplayEffect.RampOffDivider:
+    Page: Graphics
+    Heading: Retro_Lights
+    Min: 1
+    Max: 100
+    SliderInterval: 0.1
+    DecimalPlacesToDisplay: 1
+    PerformanceImpact: Low

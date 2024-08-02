@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\LogicWorld\GameData\HarmonyForLogicWorld\assemblies\client\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="EccsLogicWorldAPI">
+      <HintPath>EccsLogicWorldAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="LogicAPI">
+      <HintPath>..\LogicWorld\Logic_World_Data\Managed\LogicAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="LogicAPI.Client">
+      <HintPath>..\LogicWorld\Logic_World_Data\Managed\LogicAPI.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="LogicSettings.Core">
+      <HintPath>..\LogicWorld\Logic_World_Data\Managed\LogicSettings.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="LogicWorld.ClientCode">
+      <HintPath>..\LogicWorld\Logic_World_Data\Managed\LogicWorld.ClientCode.dll</HintPath>
+    </Reference>
+    <Reference Include="LogicWorld.Interfaces">
+      <HintPath>..\LogicWorld\Logic_World_Data\Managed\LogicWorld.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="LogicWorld.Rendering">
+      <HintPath>..\LogicWorld\Logic_World_Data\Managed\LogicWorld.Rendering.dll</HintPath>
+    </Reference>
+    <Reference Include="LogicWorld.SharedCode">
+      <HintPath>..\LogicWorld\Logic_World_Data\Managed\LogicWorld.SharedCode.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

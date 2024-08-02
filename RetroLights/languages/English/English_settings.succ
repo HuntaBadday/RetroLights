@@ -1,0 +1,17 @@
+RetroLights.DisplayEffect.DisplayIntensity: "Display Intensity"
+RetroLights.DisplayEffect.RampOnDivider: "Ramp Up Time"
+RetroLights.DisplayEffect.RampOffDivider: "Ramp Down Time"
+MHG.SettingsMenu.Pages.Graphics.Headings.Retro_Lights: "Mod: Retro Lights"
+
+RetroLights.DisplayEffect.DisplayIntensity.Description: """
+    Display light intensity multiplier.
+    ![Alt help](https://huntabadday.com/docs/help.gif "help")
+    """
+RetroLights.DisplayEffect.RampOnDivider.Description: """
+    Time it takes for a display to illuminate.
+    \* No specified length.
+    """
+RetroLights.DisplayEffect.RampOffDivider.Description: """
+    Time it takes for a display to turn off.
+    \* No specified length.
+    """
