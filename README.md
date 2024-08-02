@@ -1,5 +1,5 @@
 # RetroLights
-This mod adds fading effects on all displays. The mod also adds an intensity setting to give those displays a nice glow.
+Logic World mod that adds fading effects on all displays. The mod also adds an intensity setting to give those displays a nice glow.
 
 ## Settings
 Settings location are under Graphics/RetroLights
